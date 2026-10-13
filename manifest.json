@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "name": "Le Robert",
   "description": "Sélectionnez un mot pour rechercher sa définition dans Le Robert.",
-  "author": "Nhân Trí",
+  "author": "winedows",
   "homepage_url": "https://github.com/tenkeyful/le-robert",
   "icons": {
     "16": "icon.png",
